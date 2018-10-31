@@ -3,5 +3,5 @@
 Model is trained first on pixel loss and then using perceptual loss from Vgg16(relu layers before batchnorm) also [icnr](https://arxiv.org/ftp/arxiv/papers/1707/1707.02937.pdf) initialization for PixelShuffle layers is used to prevent checkerboard atifacts
 
 Here are some examples ([hi-res](https://psv4.userapi.com/c848036/u98389977/docs/d14/482455c54b26/1.png?extra=_g9nOJrHpoyDRUd0L3bQGjNVqPqu4LmQLS3NrDDtwthZ5j4j_VZZuUiOWS2TCcM-IlyOjR67G8PidhfmsPNndq2EEyB9LulIHqqdH18DVAOjegwwQQyYtVUxXqRGJR8RX9nudPdExjoFmKsGfoD9)):
-![](https://psv4.userapi.com/c848036/u98389977/docs/d14/482455c54b26/1.png?extra=_g9nOJrHpoyDRUd0L3bQGjNVqPqu4LmQLS3NrDDtwthZ5j4j_VZZuUiOWS2TCcM-IlyOjR67G8PidhfmsPNndq2EEyB9LulIHqqdH18DVAOjegwwQQyYtVUxXqRGJR8RX9nudPdExjoFmKsGfoD9)
+![](https://pp.userapi.com/c848524/v848524226/a9bff/3WLCPpj8SQg.jpg)
 
